@@ -16,8 +16,11 @@
 * [test cases](https://github.com/janke-learning/test-cases)  
 
 ### theory in practice
-* [recursion](https://github.com/janke-learning/recursion) & [recursive calls](https://github.com/janke-learning/recursive-calls) 
-* [boolean by example](https://github.com/janke-learning/boolean-by-example), [boolean algebra](https://github.com/janke-learning/boolean-algebra) & [simplifying boolean expressions](https://github.com/janke-learning/simplifying-boolean-expressions)
+* [recursion](https://github.com/janke-learning/recursion) 
+* [recursive calls](https://github.com/janke-learning/recursive-calls) 
+* [boolean by example](https://github.com/janke-learning/boolean-by-example) 
+* [boolean algebra](https://github.com/janke-learning/boolean-algebra) 
+* [simplifying boolean expressions](https://github.com/janke-learning/simplifying-boolean-expressions)
 
 ### example projects
 * [stateless](https://github.com/janke-learning/stateless-demo-project) 
