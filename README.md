@@ -15,6 +15,9 @@
 * [trace & log](https://github.com/janke-learning/trace-and-log) 
 * [test cases](https://github.com/janke-learning/test-cases)  
 
+### behavior vs. implementation
+* [expanding](https://github.com/janke-learning/expanding)
+
 ### theory in practice
 * [recursion](https://github.com/janke-learning/recursion) 
 * [recursive calls](https://github.com/janke-learning/recursive-calls) 
