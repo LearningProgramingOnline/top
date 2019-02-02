@@ -23,11 +23,15 @@
 * [test cases](https://github.com/janke-learning/test-cases)  
 * [expanding](https://github.com/janke-learning/expanding)
 
+### embedded resources
+* [boolean by example](https://github.com/janke-learning/boolean-by-example) 
+* [recursive calls](https://github.com/janke-learning/recursive-calls) 
+* ['this' and events](https://janke-learning.github.io/fosdem-2019/4-full-complexity-max-simplicity/index.html) 
+
 ### theory in practice
 * [comparadigms](https://github.com/janke-learning/comparadigms)
 * [recursion](https://github.com/janke-learning/recursion) 
-* [recursive calls](https://github.com/janke-learning/recursive-calls) 
-* [boolean by example](https://github.com/janke-learning/boolean-by-example) 
+* [planning recursions](https://github.com/janke-learning/fosdem-2019/blob/master/2-process-over-product.md) 
 * [boolean algebra](https://github.com/janke-learning/boolean-algebra) 
 * [simplifying boolean expressions](https://github.com/janke-learning/simplifying-boolean-expressions)
 
