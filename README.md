@@ -5,6 +5,7 @@
 ### javascript
 * [js notional machine](https://github.com/janke-learning/js-notional-machine)
 * [python tutor for js](http://www.pythontutor.com/) 
+* [prototypical inheritance](https://github.com/janke-learning/prototypical-inheritance/tree/master)
 
 ### no-codes
 * [#parsonizer](https://github.com/janke-learning/parsonizer)
