@@ -7,7 +7,7 @@
 * [python tutor for js](http://www.pythontutor.com/) 
 
 ### no-codes
-* [#parsonizer](https://github.com/janke-learning/parsonizer) - turn any code into a parsons 
+* [#parsonizer](https://github.com/janke-learning/parsonizer)
 * [flow control parsons exercises](https://github.com/janke-learning/parsons-control-flow)  
 * [variables swapping values](https://github.com/janke-learning/value-swap)  
 * [by reference vs. by value](https://github.com/janke-learning/reference-vs-value) 
