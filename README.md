@@ -14,9 +14,9 @@
 * [errors](https://github.com/janke-learning/errors) 
 * [execution paths](https://github.com/janke-learning/execution-paths)
 * [trace & log](https://github.com/janke-learning/trace-and-log) 
-* [test cases](https://github.com/janke-learning/test-cases)  
 
 ### behavior vs. implementation
+* [test cases](https://github.com/janke-learning/test-cases)  
 * [expanding](https://github.com/janke-learning/expanding)
 
 ### theory in practice
