@@ -12,6 +12,7 @@
 
 ### code & console basics
 * [errors](https://github.com/janke-learning/errors) 
+* [execution paths](https://github.com/janke-learning/execution-paths)
 * [trace & log](https://github.com/janke-learning/trace-and-log) 
 * [test cases](https://github.com/janke-learning/test-cases)  
 
@@ -19,6 +20,7 @@
 * [expanding](https://github.com/janke-learning/expanding)
 
 ### theory in practice
+* [comparadigms](https://github.com/janke-learning/comparadigms)
 * [recursion](https://github.com/janke-learning/recursion) 
 * [recursive calls](https://github.com/janke-learning/recursive-calls) 
 * [boolean by example](https://github.com/janke-learning/boolean-by-example) 
