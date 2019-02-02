@@ -2,6 +2,10 @@
 
 [repo for js dev room @ fosdem](https://github.com/janke-learning/fosdem-2019)  
 
+### javascript
+* [js notional machine](https://github.com/janke-learning/js-notional-machine)
+* [python tutor for js](http://www.pythontutor.com/) 
+
 ### no-codes
 * [#parsonizer](https://github.com/janke-learning/parsonizer) - turn any code into a parsons 
 * [flow control parsons exercises](https://github.com/janke-learning/parsons-control-flow)  
