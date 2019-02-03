@@ -5,7 +5,6 @@
 ### javascript
 * [js notional machine](https://github.com/janke-learning/js-notional-machine)
 * [python tutor for js](http://www.pythontutor.com/) 
-* [prototypical inheritance](https://github.com/janke-learning/prototypical-inheritance/tree/master)
 
 ### no-codes
 * [#parsonizer](https://github.com/janke-learning/parsonizer)
@@ -15,10 +14,11 @@
 * [dots vs. brackets](https://github.com/janke-learning/dots-vs-brackets) 
 * [type coercion & addition](https://github.com/janke-learning/addition-coercion)  
 
-### code & console basics
+### being javascript
 * [errors](https://github.com/janke-learning/errors) 
-* [execution paths](https://github.com/janke-learning/execution-paths)
 * [trace & log](https://github.com/janke-learning/trace-and-log) 
+* [execution paths](https://github.com/janke-learning/execution-paths)
+* [trace & assert](https://github.com/janke-learning/trace-and-assert/blob/master/README.md)
 
 ### behavior vs. implementation
 * [test cases](https://github.com/janke-learning/test-cases)  
@@ -28,6 +28,7 @@
 * [boolean by example](https://github.com/janke-learning/boolean-by-example) 
 * [recursive calls](https://github.com/janke-learning/recursive-calls) 
 * ['this' and events](https://janke-learning.github.io/fosdem-2019/4-full-complexity-max-simplicity/index.html) 
+* [prototypical inheritance](https://github.com/janke-learning/prototypical-inheritance/tree/master)
 
 ### theory in practice
 * [comparadigms](https://github.com/janke-learning/comparadigms)
