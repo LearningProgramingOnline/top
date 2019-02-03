@@ -18,7 +18,7 @@
 * [errors](https://github.com/janke-learning/errors) 
 * [trace & log](https://github.com/janke-learning/trace-and-log) 
 * [execution paths](https://github.com/janke-learning/execution-paths)
-* [trace & assert](https://github.com/janke-learning/trace-and-assert/blob/master/README.md)
+* [trace & assert](https://github.com/janke-learning/trace-and-assert)
 
 ### behavior vs. implementation
 * [test cases](https://github.com/janke-learning/test-cases)  
