@@ -9,6 +9,7 @@
 ### no-codes
 * [#parsonizer](https://github.com/janke-learning/parsonizer)
 * [flow control parsons exercises](https://github.com/janke-learning/parsons-control-flow)  
+* [flow control visualization](https://bogdan-lyashenko.github.io/js-code-to-svg-flowchart/docs/live-editor/index.html)  
 * [variables swapping values](https://github.com/janke-learning/value-swap)  
 * [by reference vs. by value](https://github.com/janke-learning/reference-vs-value) 
 * [dots vs. brackets](https://github.com/janke-learning/dots-vs-brackets) 
