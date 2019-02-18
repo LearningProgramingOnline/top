@@ -1,6 +1,7 @@
 ##  top
 
-[repo for js dev room @ fosdem](https://github.com/janke-learning/fosdem-2019)  
+[the big idea](https://github.com/janke-learning/the-big-idea) 
+for js devroom @ fosdem: [slideshow](https://janke-learning.github.io/fosdem-2019/#/), [repo](https://github.com/janke-learning/fosdem-2019)  
 
 ### javascript
 * [js notional machine](https://github.com/janke-learning/js-notional-machine)
