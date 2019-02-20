@@ -1,7 +1,13 @@
 ##  top
 
 [the big idea](https://github.com/janke-learning/the-big-idea)    
-from fosdem: [slideshow](https://janke-learning.github.io/fosdem-2019/#/), [repo](https://github.com/janke-learning/fosdem-2019)  
+[the philosophy](https://github.com/janke-learning/fosdem-2019)  
+* [explicitly teach the implicit](https://github.com/janke-learning/fosdem-2019/blob/master/1-explicitly-teach-the-implicit.md)
+* [process over product](https://github.com/janke-learning/fosdem-2019/blob/master/2-process-over-product.md)  
+* [context is content](https://github.com/janke-learning/fosdem-2019/blob/master/3-context-is-content.md)  
+* [full complexity, max simplicity](https://github.com/janke-learning/fosdem-2019/tree/master/4-full-complexity-max-simplicity)  
+* [open source !== open education](https://github.com/janke-learning/fosdem-2019/blob/master/5-open-source-open-education.md)  
+* ([presentation slides](https://janke-learning.github.io/fosdem-2019/#/)) 
 
 ### javascript
 * [js notional machine](https://github.com/janke-learning/js-notional-machine)
