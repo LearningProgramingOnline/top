@@ -20,13 +20,16 @@
 * [variables swapping values](https://github.com/janke-learning/value-swap)  
 * [by reference vs. by value](https://github.com/janke-learning/reference-vs-value) 
 * [dots vs. brackets](https://github.com/janke-learning/dots-vs-brackets) 
-* [type coercion & addition](https://github.com/janke-learning/addition-coercion)  
+* [coercion & addition table](https://janke-learning.github.io/addition-coercion)  
+* [coercion & equalities table](https://janke-learning.github.io/equalities-coercion)  
 
 ### being javascript
 * [errors](https://github.com/janke-learning/errors) 
 * [trace & log](https://github.com/janke-learning/trace-and-log) 
 * [execution paths](https://github.com/janke-learning/execution-paths)
 * [trace & assert](https://github.com/janke-learning/trace-and-assert)
+* [type coercion & addition](https://github.com/janke-learning/addition-coercion)  
+* [type coercion & equalities](https://github.com/janke-learning/equalities-coercion)  
 
 ### behavior vs. implementation
 * [test cases](https://github.com/janke-learning/test-cases)  
