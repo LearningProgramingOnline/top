@@ -48,9 +48,17 @@
 * [boolean algebra](https://github.com/janke-learning/boolean-algebra) 
 * [simplifying boolean expressions](https://github.com/janke-learning/simplifying-boolean-expressions)
 
-### example projects
+### "flatstack" projects
 * [stateless](https://github.com/janke-learning/stateless-demo-project) 
 * [statefull](https://github.com/janke-learning/statefull-project-demo) 
+
+### separation of concerns
+* [mvc-lh](https://github.com/janke-learning/mvc-lh)   
+* [pytut example](https://github.com/janke-learning/mvclh-pytut-example)   
+* [corss-environment](https://github.com/janke-learning/cross-environment-mvclh)  
+* [todo list project](https://github.com/janke-learning/todo-list-mvclh-project)   
+* [calculator project](https://github.com/janke-learning/calc-mvclh-project)  
+* [sync vs async (callbacks)](https://github.com/janke-learning/sync-async-mvclh)  
 
 ### good reads
 * [if hemingway wrote javascript](https://github.com/janke-learning/if-hemingway) 
