@@ -57,7 +57,9 @@
 * [pytut example](https://github.com/janke-learning/mvclh-pytut-example)   
 * [corss-environment](https://github.com/janke-learning/cross-environment-mvclh)  
 * [todo list project](https://github.com/janke-learning/todo-list-mvclh-project)   
+    * [student example](https://github.com/Joaoviana/mvc-lh-todo-list)  
 * [calculator project](https://github.com/janke-learning/calc-mvclh-project)  
+    * [student example](https://github.com/Joaoviana/mvc-lh-clean-calc) 
 * [sync vs async (callbacks)](https://github.com/janke-learning/sync-async-mvclh)  
 
 ### good reads
