@@ -10,6 +10,8 @@
 1. [open source !== open education](https://github.com/janke-learning/fosdem-2019/blob/master/5-open-source-open-education.md)  
 1. ([presentation slides](https://janke-learning.github.io/fosdem-2019/#/)) 
 
+---
+
 ### Index
 * [javascript](#javascript)  
 * [no-codes](#no-codes)  
@@ -21,6 +23,7 @@
 * [separation of concerns](#separation-of-concerns)  
 * [good reads](#good-reads)  
 
+---
 ---
 
 ## javascript
@@ -74,7 +77,7 @@
 
 ---
 
-## "consoliterate" projects
+## consoliterate projects
 * [stateless](https://github.com/janke-learning/stateless-demo-project) 
 * [statefull](https://github.com/janke-learning/statefull-project-demo) 
 
