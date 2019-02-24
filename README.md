@@ -21,6 +21,7 @@
 * [theory in practice](#theory-in-practice)  
 * [consoliterate projects](#consoliterate-projects)  
 * [separation of concerns](#separation-of-concerns)  
+* [frontend frameworks](#frontend-frameworks)  
 * [good reads](#good-reads)  
 
 ---
@@ -92,6 +93,16 @@
 * [calculator project](https://github.com/janke-learning/calc-mvclh-project)  
     * [student example](https://github.com/Joaoviana/mvc-lh-clean-calc) 
 * [sync vs async (callbacks)](https://github.com/janke-learning/sync-async-mvclh)  
+
+---
+
+## frontend frameworks
+* [self-logging hyperapp](https://github.com/janke-learning/self-logging-hyperapp)  
+* [hyperapp starter repo](https://github.com/janke-learning/hyperapp-starter-basic)  
+* [hyperapp replit template](https://repl.it/@colevandersWands/hyperapp-starter-basic)  
+* [hyperapp examples gallery](https://repl.it/@colevandersWands/hyperapp-examples-gallery)
+* [example hyperapp calc](https://repl.it/@colevandersWands/hyperapping-calc-1)  
+
 
 ---
 
