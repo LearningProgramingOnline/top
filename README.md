@@ -1,4 +1,4 @@
-#  top
+#  Janke Learning
 
 [the big idea](https://github.com/janke-learning/the-big-idea)    
 
