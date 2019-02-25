@@ -118,6 +118,7 @@
 ## good reads
 * [if hemingway wrote javascript](https://github.com/janke-learning/if-hemingway) 
 * [janke: the framework](https://github.com/janke-learning/janke-the-framework)  
+* [elewa academy, deprecated](https://github.com/elewa-academy)  
   
 ---
   
