@@ -21,6 +21,7 @@
 * [theory in practice](#theory-in-practice)  
 * [consoliterate projects](#consoliterate-projects)  
 * [separation of concerns](#separation-of-concerns)  
+* [dependency injection](#dependency-injection)  
 * [frontend frameworks](#frontend-frameworks)  
 * [good reads](#good-reads)  
 
@@ -93,6 +94,14 @@
 * [calculator project](https://github.com/janke-learning/calc-mvclh-project)  
     * [student example](https://github.com/Joaoviana/mvc-lh-clean-calc) 
 * [sync vs async (callbacks)](https://github.com/janke-learning/sync-async-mvclh)  
+
+---
+
+## dependency injection
+* [dependency injection](https://github.com/elewa-academy/dependency-injection)  
+* [app/component calc](https://github.com/elewa-academy/app-component-calc)  
+* [app/comp. modular logic](https://github.com/elewa-academy/app-component-modular-logic)  
+* [app/comp. cross-environment](https://github.com/elewa-academy/app-component-cross-environment)  
 
 ---
 
