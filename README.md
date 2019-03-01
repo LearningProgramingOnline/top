@@ -24,6 +24,7 @@
 * [dependency injection](#dependency-injection)  
 * [frontend frameworks](#frontend-frameworks)  
 * [good reads](#good-reads)  
+* [works in progress](https://github.com/colevandersWands/top)  
 
 ---
 ---
@@ -118,8 +119,7 @@
 ## good reads
 * [if hemingway wrote javascript](https://github.com/janke-learning/if-hemingway) 
 * [janke: the framework](https://github.com/janke-learning/janke-the-framework)  
-* [elewa academy, deprecated](https://github.com/elewa-academy) 
-* [content in progress](https://github.com/colevandersWands/top)  
+* [elewa academy, deprecated](https://github.com/elewa-academy)   
   
 ---
   
