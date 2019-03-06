@@ -69,9 +69,10 @@
 * [flow control parsons exercises](https://github.com/janke-learning/parsons-control-flow)  
 * [flow control visualization](https://bogdan-lyashenko.github.io/js-code-to-svg-flowchart/docs/live-editor/index.html)  
 * [variables swapping values](https://github.com/janke-learning/value-swap)  
+* [block scope: let vs var](https://github.com/janke-learning/block-scope-let-vs-var/blob/master/README.md)  
 * [by reference vs. by value](https://github.com/janke-learning/reference-vs-value) 
 * [dots vs. brackets](https://github.com/janke-learning/dots-vs-brackets) 
-* [coercion & addition table](https://janke-learning.github.io/addition-coercion)  
+* [coercion & arithmetic table](https://janke-learning.github.io/arithmetic-coercion/)  
 * [coercion & equalities table](https://janke-learning.github.io/equalities-coercion)  
 
 ---
