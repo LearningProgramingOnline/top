@@ -10,11 +10,15 @@
 1. [open source !== open education](https://github.com/janke-learning/fosdem-2019/blob/master/5-open-source-open-education.md)  
 1. ([presentation slides](https://janke-learning.github.io/fosdem-2019/#/)) 
 
+-> make learning productively hard <- 
+-> https://qz.com/1378298/forget-easy-to-use-design-choose-something-hard-instead/ <-
+
 ---
 
 ### Index
-* [javascript](#javascript)  
-* [no-codes](#no-codes)  
+* [javascript in order](#javascript-in-order)  
+* [fundamental skills](#fundamental-skills)
+* [no-coding resources](#no-coding-resources)  
 * [being javascript](#being-javascript)  
 * [behavior vs. implementation](#behavior-vs-implementation)  
 * [embedded resources](#embedded-resources)  
@@ -29,13 +33,38 @@
 ---
 ---
 
-## javascript
+
+## javascript in order
+- explain why exposed in this order
+- go through old notes
 * [js notional machine](https://github.com/janke-learning/js-notional-machine)
-* [python tutor for js](http://www.pythontutor.com/) 
+* [creation & execution phase]()
+* [variables & hoisting]()
+* [statements vs expressions]()
+* [syntax vs runtime errors]()
+* [types and operators]()
+* [complex expressions]()
+* [reference vs. value]()
+* [functions]()
+* [control flow]()
 
 ---
 
-## no-codes
+## fundamental skills
+* [using python tutor](link to a repo that contexualizes js pytut)
+* [diagramming execution]()
+* [annotations]() (better name for this)
+* [path tracing]()
+* [logging]()
+* [expanding]()
+* [asserting]()
+* [mirroring state]()
+* [locating unexpected behavior]()
+* [empirical debugging]()
+
+---
+
+## no-coding resources
 * [#parsonizer](https://github.com/janke-learning/parsonizer)
 * [flow control parsons exercises](https://github.com/janke-learning/parsons-control-flow)  
 * [flow control visualization](https://bogdan-lyashenko.github.io/js-code-to-svg-flowchart/docs/live-editor/index.html)  
