@@ -10,18 +10,24 @@
 1. [open source !== open education](https://github.com/janke-learning/fosdem-2019/blob/master/5-open-source-open-education.md)  
 1. ([presentation slides](https://janke-learning.github.io/fosdem-2019/#/)) 
 
--> make learning productively hard <- 
--> https://qz.com/1378298/forget-easy-to-use-design-choose-something-hard-instead/ <-
-
 ---
 
+introduce the 
+  nm as procedural-first
+  solution design as functional-first
+    expansions, sets & mapping, proof-cases
+  applied computing as procedural
+    demo-projects calling on logic from handlers
+  program structure as oop (mvclh)
+  software/framework design as functional
+
 ### Index
+* [js notional machine](#js-notional-machine)
+* [visualization & study tools](#visualization-and-study-tools)
 * [javascript in order](#javascript-in-order)  
-* [fundamental skills](#fundamental-skills)
-* [no-coding resources](#no-coding-resources)  
-* [being javascript](#being-javascript)  
-* [behavior vs. implementation](#behavior-vs-implementation)  
-* [embedded resources](#embedded-resources)  
+* [janke skillzz](#janke-skillzz) 
+* [strategy]()
+* [solution design]()
 * [theory in practice](#theory-in-practice)  
 * [consoliterate projects](#consoliterate-projects)  
 * [separation of concerns](#separation-of-concerns)  
@@ -33,39 +39,45 @@
 ---
 ---
 
+## JS notional machine
+
+* [js notional machine](https://github.com/janke-learning/js-notional-machine)
+* [pytut for js](https://github.com/janke-learning/python-tutor-for-js)
+* [#parsonizer](https://github.com/janke-learning/parsonizer)
+
+---
+
+## visualization and study tools
+
+* [pytut for js](https://github.com/janke-learning/python-tutor-for-js)
+* [#parsonizer](https://github.com/janke-learning/parsonizer)
+* flow control visualization: [bogdon](https://bogdan-lyashenko.github.io/js-code-to-svg-flowchart/docs/live-editor/index.html), [code2flow](https://code2flow.com/app)  
+* [abstract sytax tree explorer](https://astexplorer.net)
+* diagramming execution by hand:
+    * see notes from august course
+    * repoize it with instructions & examples
+    * maybe some videos 
+    * definately some over-lay or step-by-step diagrams
+
+---
+
 
 ## javascript in order
 - explain why exposed in this order
 - go through old notes
-* [js notional machine](https://github.com/janke-learning/js-notional-machine)
 * [creation & execution phase]()
 * [variables & hoisting]()
 * [statements vs expressions]()
 * [syntax vs runtime errors]()
-* [types and operators]()
+* [types and operators]() (sets and mappings, or is this in 'theory applied')
 * [complex expressions]()
 * [reference vs. value]()
 * [functions]()
 * [control flow]()
 
----
+-> merge these <-
 
-## fundamental skills
-* [using python tutor](link to a repo that contexualizes js pytut)
-* [diagramming execution]()
-* [annotations]() (better name for this)
-* [path tracing]()
-* [logging]()
-* [expanding]()
-* [asserting]()
-* [mirroring state]()
-* [locating unexpected behavior]()
-* [empirical debugging]()
-
----
-
-## no-coding resources
-* [#parsonizer](https://github.com/janke-learning/parsonizer)
+<!-- ## no-coding resources -->
 * [flow control parsons exercises](https://github.com/janke-learning/parsons-control-flow)  
 * [flow control visualization](https://bogdan-lyashenko.github.io/js-code-to-svg-flowchart/docs/live-editor/index.html)  
 * [variables swapping values](https://github.com/janke-learning/value-swap)  
@@ -75,29 +87,42 @@
 * [coercion & arithmetic table](https://janke-learning.github.io/arithmetic-coercion/)  
 * [coercion & equalities table](https://janke-learning.github.io/equalities-coercion)  
 
+
+* [errors](https://github.com/janke-learning/errors) 
+* [type coercion & addition](https://github.com/janke-learning/addition-coercion)  
+* [type coercion & equalities](https://github.com/janke-learning/equalities-coercion) 
+
+* [boolean by example](https://github.com/janke-learning/boolean-by-example) 
+
+* [prototypical inheritance](https://github.com/janke-learning/prototypical-inheritance/tree/master)
+
+* [recursive calls](https://github.com/janke-learning/recursive-calls) 
+
+* ['this' and events](https://janke-learning.github.io/fosdem-2019/4-full-complexity-max-simplicity/index.html) 
+
 ---
 
-## being javascript
-* [errors](https://github.com/janke-learning/errors) 
+## janke skillzz
+* [annotations]() (better name for this)
+* [path tracing]()
+* [logging]()
+* [expanding]()
+* [aniticipating state]()
+* [asserting]()
+* [locating unexpected behavior]()
+* [empirical debugging]()
+* [creating exercises]()
+
+-> merge these <-
+
 * [trace & log](https://github.com/janke-learning/trace-and-log) 
 * [execution paths](https://github.com/janke-learning/execution-paths)
 * [trace & assert](https://github.com/janke-learning/trace-and-assert)
-* [type coercion & addition](https://github.com/janke-learning/addition-coercion)  
-* [type coercion & equalities](https://github.com/janke-learning/equalities-coercion)  
 
----
-
-## behavior vs. implementation
 * [test cases](https://github.com/janke-learning/test-cases)  
 * [expanding](https://github.com/janke-learning/expanding)
 
----
 
-## embedded resources
-* [boolean by example](https://github.com/janke-learning/boolean-by-example) 
-* [recursive calls](https://github.com/janke-learning/recursive-calls) 
-* ['this' and events](https://janke-learning.github.io/fosdem-2019/4-full-complexity-max-simplicity/index.html) 
-* [prototypical inheritance](https://github.com/janke-learning/prototypical-inheritance/tree/master)
 
 ---
 
