@@ -31,7 +31,7 @@
 
 ## javascript
 * [js notional machine](https://github.com/janke-learning/js-notional-machine)
-* [python tutor for js](https://github.com/janke-learning/python-tutor-for-js) 
+* [JS in order](https://github.com/janke-learning/js-notional-machine/blob/master/javascript-in-order.md) 
 
 ---
 
