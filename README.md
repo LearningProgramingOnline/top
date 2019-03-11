@@ -12,20 +12,11 @@
 
 ---
 
-introduce the 
-  nm as procedural-first
-  solution design as functional-first
-    expansions, sets & mapping, proof-cases
-  applied computing as procedural
-    demo-projects calling on logic from handlers
-  program structure as oop (mvclh)
-  software/framework design as functional
-
 ### Index
 * [js notional machine](#js-notional-machine)
-* [visualization & study tools](#visualization-and-study-tools)
-* [javascript in order](#javascript-in-order)  
-* [janke skillzz](#janke-skillzz) 
+* [visualization & study tools](#visualization-and-study-tools) 
+* [js references](#js-references)  
+* [programming skills](#programming-skills) 
 * [strategy]()
 * [solution design]()
 * [theory in practice](#theory-in-practice)  
@@ -33,8 +24,7 @@ introduce the
 * [separation of concerns](#separation-of-concerns)  
 * [dependency injection](#dependency-injection)  
 * [frontend frameworks](#frontend-frameworks)  
-* [good reads](#good-reads)  
-* [works in progress](https://github.com/colevandersWands/top)  
+* [good reads](#good-reads)   
 
 ---
 ---
@@ -50,79 +40,45 @@ introduce the
 
 ## visualization and study tools
 
-* [pytut for js](https://github.com/janke-learning/python-tutor-for-js)
+* [pytut for js](http://pythontutor.com/javascript.html#)
 * [#parsonizer](https://github.com/janke-learning/parsonizer)
 * flow control visualization: [bogdon](https://bogdan-lyashenko.github.io/js-code-to-svg-flowchart/docs/live-editor/index.html), [code2flow](https://code2flow.com/app)  
 * [abstract sytax tree explorer](https://astexplorer.net)
-* diagramming execution by hand:
-    * see notes from august course
-    * repoize it with instructions & examples
-    * maybe some videos 
-    * definately some over-lay or step-by-step diagrams
+* diagramming execution by hand (coming soon)
 
 ---
 
+## js references
 
-## javascript in order
-- explain why exposed in this order
-- go through old notes
-* [creation & execution phase]()
-* [variables & hoisting]()
-* [statements vs expressions]()
-* [syntax vs runtime errors]()
-* [types and operators]() (sets and mappings, or is this in 'theory applied')
-* [complex expressions]()
-* [reference vs. value]()
-* [functions]()
-* [control flow]()
 
--> merge these <-
-
-<!-- ## no-coding resources -->
-* [flow control parsons exercises](https://github.com/janke-learning/parsons-control-flow)  
-* flow control visualization: [bogdon](https://bogdan-lyashenko.github.io/js-code-to-svg-flowchart/docs/live-editor/index.html), [code2flow](https://code2flow.com/app)  
+* [flow control parsons exercises](https://github.com/janke-learning/parsons-control-flow)   
 * [variables swapping values](https://github.com/janke-learning/value-swap)  
 * [block scope: let vs var](https://github.com/janke-learning/block-scope-let-vs-var/blob/master/README.md)  
 * [by reference vs. by value](https://github.com/janke-learning/reference-vs-value) 
-* [dots vs. brackets](https://github.com/janke-learning/dots-vs-brackets) 
-* [coercion & arithmetic table](https://janke-learning.github.io/arithmetic-coercion/)  
-* [coercion & equalities table](https://janke-learning.github.io/equalities-coercion)  
-
-
+* [dots vs. brackets](https://github.com/janke-learning/dots-vs-brackets)  
 * [errors](https://github.com/janke-learning/errors) 
-* [type coercion & addition](https://github.com/janke-learning/addition-coercion)  
-* [type coercion & equalities](https://github.com/janke-learning/equalities-coercion) 
-
-* [boolean by example](https://github.com/janke-learning/boolean-by-example) 
-
+* [type coercion & addition](https://github.com/janke-learning/addition-coercion) - [interactive table](https://janke-learning.github.io/arithmetic-coercion/)  
+* [type coercion & equalities](https://github.com/janke-learning/equalities-coercion) - [interactive table](https://janke-learning.github.io/equalities-coercion)   
 * [prototypical inheritance](https://github.com/janke-learning/prototypical-inheritance/tree/master)
-
-* [recursive calls](https://github.com/janke-learning/recursive-calls) 
-
-* ['this' and events](https://janke-learning.github.io/fosdem-2019/4-full-complexity-max-simplicity/index.html) 
+* embedded resources:
+  * [boolean by example](https://github.com/janke-learning/boolean-by-example) 
+  * [recursive calls](https://github.com/janke-learning/recursive-calls) 
+  * ['this' and events](https://janke-learning.github.io/fosdem-2019/4-full-complexity-max-simplicity/index.html) 
 
 ---
 
-## janke skillzz
-* [annotations]() (better name for this)
-* [path tracing]()
-* [logging]()
-* [expanding]()
+## programming skills
+
+* [annotations]()
+* [tracing execution paths](https://github.com/janke-learning/execution-paths)
+* [logging program state](https://github.com/janke-learning/trace-and-log)
+* [writing test cases](https://github.com/janke-learning/test-cases)
+* [expanding code](https://github.com/janke-learning/expanding)
+* [asserting single lines](https://github.com/janke-learning/trace-and-assert)
 * [aniticipating state]()
-* [asserting]()
 * [locating unexpected behavior]()
 * [empirical debugging]()
 * [creating exercises]()
-
--> merge these <-
-
-* [trace & log](https://github.com/janke-learning/trace-and-log) 
-* [execution paths](https://github.com/janke-learning/execution-paths)
-* [trace & assert](https://github.com/janke-learning/trace-and-assert)
-
-* [test cases](https://github.com/janke-learning/test-cases)  
-* [expanding](https://github.com/janke-learning/expanding)
-
 
 
 ---
@@ -176,7 +132,8 @@ introduce the
 * [if hemingway wrote javascript](https://github.com/janke-learning/if-hemingway) 
 * [janke: the framework](https://github.com/janke-learning/janke-the-framework)  
 * [elewa academy, deprecated](https://github.com/elewa-academy)   
-  
+* [works in progress](https://github.com/colevanderswands/top)   
+
 ---
   
 ## study helpers
