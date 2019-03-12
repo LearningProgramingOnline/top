@@ -32,7 +32,7 @@
 ## JS notional machine
 
 * [js notional machine](https://github.com/janke-learning/js-notional-machine)
-* [JS in order](https://github.com/janke-learning/js-notional-machine/blob/master/javascript-in-order.md) 
+* [JS in order](https://github.com/janke-learning/js-in-order) 
 
 
 
