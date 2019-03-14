@@ -53,6 +53,8 @@
 * [JavaScript in order](https://github.com/janke-learning/js-notional-machine/blob/master/javascript-in-order.md) 
 * [flow control parsons exercises](https://github.com/janke-learning/parsons-control-flow)   
 * [variables swapping values](https://github.com/janke-learning/value-swap)  
+* [undeclared variables](https://github.com/janke-learning/undeclared-variables)
+* [strict mode](https://github.com/janke-learning/strict-mode)
 * [block scope: let vs var](https://github.com/janke-learning/block-scope-let-vs-var/blob/master/README.md)  
 * [by reference vs. by value](https://github.com/janke-learning/reference-vs-value) 
 * [dots vs. brackets](https://github.com/janke-learning/dots-vs-brackets)  
