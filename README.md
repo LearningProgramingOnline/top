@@ -245,6 +245,7 @@ __on learning and teaching__
 
 __js & programming resources__
 * [javascript.info](http://javascript.info/)
+* [awesome JS learning](https://github.com/micromata/awesome-javascript-learning)  
 * [computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
 * [freecodecamp on youtube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 * [productive procrastination](https://github.com/elewa-academy/productive-procratination) 
