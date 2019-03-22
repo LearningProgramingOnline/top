@@ -257,7 +257,6 @@ __good reads__
 
 ## [Bibliography](https://github.com/janke-learning/bibliography)
 
-[TOP](#janke-learning)
 
    
 ___
