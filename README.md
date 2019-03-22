@@ -27,6 +27,7 @@ Do you know a great resource we're missing? Or have an idea how this project cou
     * [modular design](#dependency-injection)
     * [frontend frameworks](#frontend-frameworks)
 * [good reads](#good-reads)
+* [bibliography](#bibliography)
 
 ---
 ---
@@ -249,7 +250,16 @@ __good reads__
 * [the 'load' function](https://github.com/janke-learning/load)
 * [self-assessment](https://github.com/elewa-academy/self-assessment)
 * [effective learning](https://github.com/elewa-academy/effective-learning)
-      
+   
+[TOP](#janke-learning)
+
+---
+
+## [Bibliography](https://github.com/janke-learning/bibliography)
+
+[TOP](#janke-learning)
+
+   
 ___
 ___
 ### <a href="http://janke-learning.org" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/50098409-22575780-021c-11e9-99e1-962787adaded.png" width="40" height="40"></img> Janke Learning</a>
