@@ -34,6 +34,20 @@
 * [js notional machine](https://github.com/janke-learning/js-notional-machine)
 * [JS in order](https://github.com/janke-learning/js-notional-machine/blob/master/javascript-in-order.md) 
 
+---
+
+js in order
+
+exercises & resources for each language feature
+  lots of links
+  parsons
+  pytut links
+  fill-in-the-blanks
+  ... see 'creating-exercises'
+  challenges should all focus on correcting or using the language, not on solving problems
+
+https://github.com/elewa-academy/creating-exercises
+
 
 
 ---
