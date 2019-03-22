@@ -235,22 +235,38 @@ __hyperapp for gud learns__
 
 Links worth your time.
 
-__good reads__
+__on learning and teaching__
 * [teachtogether.tech](http://teachtogether.tech/en/)
-* [javascript.info](http://javascript.info/)
+* [computing education blog](https://computinged.wordpress.com)
+* [carpentries instructor workshop](https://carpentries.github.io/instructor-training/)
 * [seymore: live programming](https://harc.github.io/seymour-live2017/)
-* [computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
-* [if hemingway wrote javascript](https://github.com/janke-learning/if-hemingway) 
-* [vizhub](https://vizhub.com)
-* [iodide.js](https://github.com/iodide-project/iodide)
-* [freecodecamp on youtube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
-* [productive procrastination](https://github.com/elewa-academy/productive-procratination)
-* [elewa academy, deprecated](https://github.com/elewa-academy)   
-* [works in progress](https://github.com/colevanderswands/top)
-* [the 'load' function](https://github.com/janke-learning/load)
 * [self-assessment](https://github.com/elewa-academy/self-assessment)
 * [effective learning](https://github.com/elewa-academy/effective-learning)
-   
+
+__js & programming resources__
+* [javascript.info](http://javascript.info/)
+* [computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
+* [freecodecamp on youtube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+* [productive procrastination](https://github.com/elewa-academy/productive-procratination) 
+* [works in progress](https://github.com/colevanderswands/top)
+
+__open-source JS curriculums__
+* [hack your future](https://github.com/HackYourFuture)
+* [learnteachcode](https://github.com/LearnTeachCode)  
+* [opentechschool](https://github.com/OpenTechSchool)
+* [enkidevs](https://github.com/enkidevs/curriculum/wiki)
+* [elewa academy](https://github.com/elewa-academy)  
+* [the odin project](https://www.theodinproject.com/courses/javascript)
+* [freecodecamp](https://www.freecodecamp.org)          
+
+__framework tutorials__
+* [vizhub: learn D3](https://vizhub.com)
+
+__cool open-source projects__
+* [iodide.js](https://github.com/iodide-project/iodide)
+
+[if hemingway wrote javascript](https://github.com/janke-learning/if-hemingway) 
+
 [TOP](#janke-learning)
 
 ---
