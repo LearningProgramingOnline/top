@@ -45,8 +45,8 @@ Do you know a great resource we're missing? Or have an idea how this project cou
 ## Visualize & Interact with JS
 * [JS notional machine](https://github.com/janke-learning/js-notional-machine)
 * [pytut for js](http://pythontutor.com/javascript.html#)
-* [#parsonizer](https://github.com/janke-learning/parsonizer)
-* flow control visualization: [bogdon](https://bogdan-lyashenko.github.io/js-code-to-svg-flowchart/docs/live-editor/index.html), [code2flow](https://code2flow.com/app)  
+* [#parsonizer](https://janke-learning.github.io/parsonizer)
+* [flowviz](https://janke-learning.github.io/flowviz)
 * [abstract sytax tree explorer](https://astexplorer.net)
 * [consoliteracy](#consoliteracy)
 
