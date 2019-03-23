@@ -239,6 +239,7 @@ __on learning and teaching__
 * [teachtogether.tech](http://teachtogether.tech/en/)
 * [computing education blog](https://computinged.wordpress.com)
 * [carpentries instructor workshop](https://carpentries.github.io/instructor-training/)
+* [learnable programming](http://worrydream.com/LearnableProgramming/)
 * [seymore: live programming](https://harc.github.io/seymour-live2017/)
 * [self-assessment](https://github.com/elewa-academy/self-assessment)
 * [effective learning](https://github.com/elewa-academy/effective-learning)
@@ -250,6 +251,7 @@ __js & programming resources__
 * [freecodecamp on youtube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 * [productive procrastination](https://github.com/elewa-academy/productive-procratination) 
 * [works in progress](https://github.com/colevanderswands/top)
+* [toxicode](http://compute-it.toxicode.fr)  
 
 __open-source JS curriculums__
 * [hack your future](https://github.com/HackYourFuture)
