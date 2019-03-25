@@ -44,10 +44,12 @@ Do you know a great resource we're missing? Or have an idea how this project cou
 
 ## Visualize & Interact with JS
 * [JS notional machine](https://github.com/janke-learning/js-notional-machine)
+* [editing with blocks](https://janke-learning.github.io/blockit)  
 * [pytut for js](http://pythontutor.com/javascript.html#)
 * [#parsonizer](https://janke-learning.github.io/parsonizer)
 * [flowviz](https://janke-learning.github.io/flowviz)
 * [abstract sytax tree explorer](https://astexplorer.net)
+* [online code linter](https://jshint.com)
 * [consoliteracy](#consoliteracy)
 
 
