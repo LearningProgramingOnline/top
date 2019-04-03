@@ -42,14 +42,16 @@ Do you know a great resource we're missing? Or have an idea how this project cou
 1. [accessibly open-source](https://github.com/janke-learning/fosdem-2019/blob/master/5-open-source-open-education.md)  
 
 
-## Visualize & Interact with JS
+## Visual & Interactive Study
 * [JS notional machine](https://github.com/janke-learning/js-notional-machine)
-* [editing with blocks](https://janke-learning.github.io/blockit)  
 * [pytut for js](http://pythontutor.com/javascript.html#)
+* [editing with blocks](https://janke-learning.github.io/blockit)  
+* [downloadable code-alongs](https://janke-learning.github.io/code-along)  
 * [#parsonizer](https://janke-learning.github.io/parsonizer)
-* [flowviz](https://janke-learning.github.io/flowviz)
+* [spot, a study game](https://janke-learning.github.io/spot)
+* [visuzlize control flow](https://janke-learning.github.io/flowviz)
+* [online code linter](https://janke-learning.github.io/linter)
 * [abstract sytax tree explorer](https://astexplorer.net)
-* [online code linter](https://jshint.com)
 * [consoliteracy](#consoliteracy)
 
 
@@ -243,6 +245,7 @@ __on learning and teaching__
 * [carpentries instructor workshop](https://carpentries.github.io/instructor-training/)
 * [learnable programming](http://worrydream.com/LearnableProgramming/)
 * [seymore: live programming](https://harc.github.io/seymour-live2017/)
+* [downloadable code-alongs](https://janke-learning.github.io/code-along)  
 * [self-assessment](https://github.com/elewa-academy/self-assessment)
 * [effective learning](https://github.com/elewa-academy/effective-learning)
 
