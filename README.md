@@ -12,7 +12,7 @@ Do you know a great resource we're missing? Or have an idea how this project cou
 ### Index
 * what is this?
     * [the philosophy](#the-philosophy)
-    * [visual & interactive JS](#visualize-and-interact-with-js)
+    * [visual & interactive JS](#visual-and-interactive-study)
 * foundations
     * [javascript](#javascript)
     * [code skills](#code-skills)
@@ -42,7 +42,7 @@ Do you know a great resource we're missing? Or have an idea how this project cou
 1. [accessibly open-source](https://github.com/janke-learning/fosdem-2019/blob/master/5-open-source-open-education.md)  
 
 
-## Visual & Interactive Study
+## Visual and Interactive Study
 * [JS notional machine](https://github.com/janke-learning/js-notional-machine)
 * [pytut for js](http://pythontutor.com/javascript.html#)
 * [editing with blocks](https://janke-learning.github.io/blockit)  
