@@ -4,7 +4,7 @@ Let's create the biggest, baddest collection of open resources for teaching the 
 
 This won't be: the next fullstack tutorial, a new learning platform, tutorials for the latest frameworks & tooling, or single path for going from 0 to hero.
 
-We want to enable you to teach your course, for your people, in your way, by making accessible the best practices in a flexible and adaptable format.  Simply fork the repos that fit your class, adapt them, and have your students work from your fork!
+We want to enable you to teach your course, for your people, in your way, by providing resources in a flexible and adaptable format.  Simply fork the repos that fit your class, adapt them, and have your students work from your fork!
    
 Do you know a great resource we're missing? Or have an idea how this project could be better?  Send us an email or a Pull Request, contributions are always welcome
 
