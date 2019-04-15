@@ -242,10 +242,11 @@ Links worth your time.
 __on learning and teaching__
 * [teachtogether.tech](http://teachtogether.tech/en/)
 * [computing education blog](https://computinged.wordpress.com)
+* [10 tips](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5886386/)  
 * [carpentries instructor workshop](https://carpentries.github.io/instructor-training/)
 * [learnable programming](http://worrydream.com/LearnableProgramming/)
 * [seymore: live programming](https://harc.github.io/seymour-live2017/)
-* [downloadable code-alongs](https://janke-learning.github.io/code-along)  
+* [save and share code-alongs](https://janke-learning.github.io/code-along)  
 * [self-assessment](https://github.com/elewa-academy/self-assessment)
 * [effective learning](https://github.com/elewa-academy/effective-learning)
 
