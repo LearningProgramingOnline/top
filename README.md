@@ -49,6 +49,7 @@ Do you know a great resource we're missing? Or have an idea how this project cou
 * [downloadable code-alongs](https://janke-learning.github.io/code-along)  
 * [#parsonizer](https://janke-learning.github.io/parsonizer)
 * [spot, a study game](https://janke-learning.github.io/spot)
+* [shuffle, a study game](https://janke-learning.github.io/shuffle)
 * [visuzlize control flow](https://janke-learning.github.io/flowviz)
 * [online code linter](https://janke-learning.github.io/linter)
 * [abstract sytax tree explorer](https://astexplorer.net)
