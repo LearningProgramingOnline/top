@@ -149,7 +149,7 @@ __solution design__
 
 If Solution Design is about answering questions, Data Modeling is about asking them. 
 
-> coming soon
+> coming soon, in the mean time [check this out](http://learnjsdata.com)
 
 
 [TOP](#janke-learning)
