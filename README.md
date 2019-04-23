@@ -248,6 +248,7 @@ __on learning and teaching__
 * [learnable programming](http://worrydream.com/LearnableProgramming/)
 * [seymore: live programming](https://harc.github.io/seymour-live2017/)
 * [save and share code-alongs](https://janke-learning.github.io/code-along)  
+* [from blocks to text](https://github.com/blocks-to-text/top)
 * [self-assessment](https://github.com/elewa-academy/self-assessment)
 * [effective learning](https://github.com/elewa-academy/effective-learning)
 
