@@ -1,12 +1,12 @@
 #  Janke Learning
 
-Let's create the biggest, baddest collection of open resources for teaching the foundations of computing literacy in JavaScript.  Lesson plans, teaching tips, study tools, exercises, projects, course outlines. Everything you need to start your own study group, teach yourself, or bring your existing class up a notch.  All of it grounded in the latest findings from research in Computing Education. 
+Let's create the biggest, baddest collection of open resources for teaching the foundations of computing literacy.  Lesson plans, teaching tips, study tools, exercises, projects, course outlines. Everything you need to start your own study group, teach yourself, or bring your existing class up a notch.  All of it grounded in the best practices of Computing Education. 
 
 This won't be: the next fullstack tutorial, a new learning platform, tutorials for the latest frameworks & tooling, or single path for going from 0 to hero.
 
 We want to enable you to teach your course, for your people, in your way, by providing resources in a flexible and adaptable format.  Simply fork the repos that fit your class, adapt them, and have your students work from your fork!
    
-Do you know a great resource we're missing? Or have an idea how this project could be better?  Send us an email or a Pull Request, contributions are always welcome
+Do you know a great resource we're missing? Or have an idea how this project could be better?  Send us an email or a Pull Request to this repository, contributions are always welcome! ( and stars, of course )
 
 
 ### Index
