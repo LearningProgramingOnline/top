@@ -43,6 +43,7 @@ Do you know a great resource we're missing? Or have an idea how this project cou
 
 
 ## Visual and Interactive Study
+* [from blocks to text](https://github.com/blocks-to-text/top)
 * [JS notional machine](https://github.com/janke-learning/js-notional-machine)
 * [pytut for js](http://pythontutor.com/javascript.html#)
 * [editing with blocks](https://janke-learning.github.io/blockit)  
