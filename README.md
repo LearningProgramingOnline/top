@@ -81,6 +81,7 @@ __references__
 * [errors](https://github.com/janke-learning/errors) 
 * [type coercion & addition](https://github.com/janke-learning/addition-coercion) - [interactive table](https://janke-learning.github.io/arithmetic-coercion/)  
 * [type coercion & equalities](https://github.com/janke-learning/equalities-coercion) - [interactive table](https://janke-learning.github.io/equalities-coercion)   
+* [function exercises](https://github.com/janke-learning/function-exercises)
 * [prototypical inheritance](https://github.com/janke-learning/prototypical-inheritance/tree/master)
 * [janke: the framework](https://github.com/janke-learning/janke-the-framework)  
 * embedded resources:
